@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pizzas</string>
+    <string name="lbl_create_order">Create order</string>
+    <string name="lbl_action_share">Share</string>
 </resources>
